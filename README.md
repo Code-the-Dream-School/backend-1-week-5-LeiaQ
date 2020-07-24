@@ -3,10 +3,10 @@ Test First Ruby -- RSpec 3 Edition
 
 ### Set up instructions
 
-1. Fork this repo
-2. Clone your version of the repo to your local machine
-3. On your local machine, `cd` into the root folder of this repo in your terminal
-4. run `bundle install` to install all the gems this project needs.
+1. Clone this repo as usual
+2. On your local machine, `cd` into the root folder of this repo in your terminal
+3. run `bundle install` to install all the gems this project needs.
+4. Make a git branch, backend-3-lesson-5 and do the coding for these exercises in that branch.
 
 ### Getting started with the exercises
 
@@ -32,6 +32,7 @@ To work through the first exercise, follow this process
 5. Do this for all the exercises in this project
 5. To get hints and tips about each exercise, view the `index.html` file that is included in each exercise folder
 
+When you are complete, push your changes to github as usual, and issue a pull request.
 
 Basically, this is "error-driven development"... you'll keep running tests, hitting error messages, fixing those messages, running more tests...  It is meant to not only test your Ruby skills but also get you comfortable seeing big scary looking stack traces and error messages.  Most of the development you do at first will be just like this.  In fact, most of *all* development is error-driven.  So get comfortable with it!
 
